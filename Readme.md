@@ -36,7 +36,6 @@ The project focuses on **automation**, **insight generation**, and **scalable ar
 | **AI / ML** | Intelligent responses |
 | **NLP** | Understanding user queries |
 | **APIs** | Model & data integration |
-| **Power BI** | Analytics & dashboards (optional integration) |
 
 ---
 
@@ -55,4 +54,5 @@ git clone https://github.com/MuhammadHamzaDS/SynapseAI.git
 cd SynapseAI
 pip install -r requirements.txt
 python app.py
+
 
