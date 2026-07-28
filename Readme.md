@@ -54,5 +54,10 @@ git clone https://github.com/MuhammadHamzaDS/SynapseAI.git
 cd SynapseAI
 pip install -r requirements.txt
 python app.py
+## 📁 Project Structure
 
+- `APP.PY` — Contains the main application and chatbot interface.
+- `requirement.txt` — Lists the required Python dependencies.
+- `Readme.md` — Provides project documentation and setup instructions.
+- `.gitignore` — Specifies files and directories excluded from version control.
 
